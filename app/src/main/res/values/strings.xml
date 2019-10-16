@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Creed</string>
+    <string name="btn_hello">Click Me To Say Hello</string>
+    <string name="btn_hello_clicked">You\'ve Clicked Me!</string>
+</resources>
